@@ -18,14 +18,16 @@ This repository provides a representative sample of the super-resolved satellite
 | Sensors | MisrSat-2, Sentinel-2 |
 | Low-Resolution Input Scale | 10m |
 | High-Resolution Input Scale |2.5m |
-| Number of Sample Patches | e.g., 20 image pairs |
+| Number of Sample Patches | e.g., 8 image pairs |
 | Format | .TIF |
 | Geographic Region | Egypt |
 
 ---
 ## Repository Structure
-├── LR/ # Low-resolution input patch samples.
-├── HR/ # High-resolution reference patches.
+├── Dataset Sample/LR/ # Low-resolution input patch samples.
+├── Dataset Sample/HR/ # High-resolution reference patches.
+├── Automatic_coregisterationSample # Sample before and after automatic co-registration
+├── test cases output # Sample of testing the RCAN final model on different areas
 └── README.md
 ## Full Dataset Access
 The complete dataset is available upon reasonable request due to MisrSat-2 data  
