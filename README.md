@@ -26,8 +26,8 @@ This repository provides a representative sample of the super-resolved satellite
 ## Repository Structure
 ├── Dataset Sample/LR/ # Low-resolution input patch samples.
 ├── Dataset Sample/HR/ # High-resolution reference patches.
-├── Automatic_coregisterationSample # Sample before and after automatic co-registration
-├── test cases output # Sample of testing the RCAN final model on different areas
+├── Automatic_coregisterationSample # Sample before and after automatic co-registration.
+├── test cases output # Sample of testing the RCAN final model on different areas.
 └── README.md
 ## Full Dataset Access
 The complete dataset is available upon reasonable request due to MisrSat-2 data  
